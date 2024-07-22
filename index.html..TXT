@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>Mi página web</title>
+    </head>
+    <body>
+         <h1>Mi página web</h1>
+              <p>Mi nombre es {EMAN}.</p>
+    </body>
+</html>
+<h1>este es el titulo principal de mi pagina wed</h1>
